@@ -1,0 +1,26 @@
+{
+  "name": "dummy-user-data",
+  "version": "0.1.0",
+  "description": "Randomly generated and customizable dummy user API data to work with.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elitezen/dummy-user-data.git"
+  },
+  "keywords": [
+    "dummy",
+    "data",
+    "api",
+    "json"
+  ],
+  "author": "Alejandro Muratalla-Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elitezen/dummy-user-data/issues"
+  },
+  "homepage": "https://github.com/Elitezen/dummy-user-data#readme"
+}
